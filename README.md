@@ -93,5 +93,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Flutter team for the amazing framework
+
+
+![c439099b-aff0-4074-b904-e775e5b758c7](https://github.com/user-attachments/assets/538477be-2494-49a4-abdb-51f75c66e6a6)
+
+![WhatsApp Image 2025-04-16 at 11 48 03_6f1ddbf2](https://github.com/user-attachments/assets/2059d003-83df-4eb9-8766-598261390e77)
+
+
+![WhatsApp Image 2025-04-16 at 11 48 03_103a0760](https://github.com/user-attachments/assets/ce9e4bdc-3f43-4ef8-9c8f-81cb19923bba)
+
+![Uploading WhatsApp Image 2025-04-16 at 11.48.03_b227ba7c.jpg…]()
+
+
+
+
+
 - All contributors and testers
 
