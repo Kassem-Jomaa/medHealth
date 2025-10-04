@@ -1,5 +1,4 @@
-<img width="543" height="817" alt="Screenshot 2025-06-12 174644" src="https://github.com/user-attachments/assets/828c08cc-3c1a-416c-8a48-276d1b962395" /># MedHealth - Your Digital Pharmacy
-
+ 
 MedHealth is a comprehensive mobile pharmacy and health product marketplace built with Flutter. The app provides users with a convenient platform to browse, search, and purchase medicines, vitamins, and health-related products from the comfort of their mobile devices.
 
 ## Features
