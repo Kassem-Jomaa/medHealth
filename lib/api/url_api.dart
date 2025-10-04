@@ -1,14 +1,14 @@
 import 'config.dart';
 
 class BASEURL {
-  static const String basePath = ApiConfig.currentBasePath;
+  static String get basePath => ApiConfig.currentBasePath;
 
-  static const String apiRegister = '${basePath}register_api.php';
-  static const String apiLogin = '${basePath}login_api.php';
-  static const String categoryWithProduct =
+  static String get apiRegister => '${basePath}register_api.php';
+  static String get apiLogin => '${basePath}login_api.php';
+  static String get categoryWithProduct =>
       '${basePath}get_product_with_category.php';
-  static const String getProduct = '${basePath}get_products.php';
-  static const String addToCart = '${basePath}add_to_cart.php';
+  static String get getProduct => '${basePath}get_products.php';
+  static String get addToCart => '${basePath}add_to_cart.php';
 
   // Dynamic endpoint for getting cart products by user ID
   static String getProductCart(String userID) {
