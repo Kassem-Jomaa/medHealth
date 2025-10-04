@@ -102,7 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![WhatsApp Image 2025-04-16 at 11 48 03_103a0760](https://github.com/user-attachments/assets/ce9e4bdc-3f43-4ef8-9c8f-81cb19923bba)
 
-![Uploading WhatsApp Image 2025-04-16 at 11.48.03_b227ba7c.jpg…]()
 
 
 
